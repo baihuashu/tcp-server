@@ -1,0 +1,9 @@
+{
+  "Name": "wzl demoServer",
+  "Host": "0.0.0.0",
+  "TcpPort": 9000,
+  "MaxConn": 3,
+  "MaxPackageSize": 512,
+  "WorkerPoolSize": 10,
+  "MaxWorkerTaskLen": 1024
+}
